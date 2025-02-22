@@ -14,7 +14,7 @@ Our work revisits the harmful video classification paper and converts the origin
 The chart below compares the performance metrics of our improved model against the original baseline:
 
 ![Comparison Metrics Chart](figures/metric.png)
-![Comparison GFLOPS and Parameters Chart](figures/GLOP.png)
+![Comparison GFLOPS and Parameters Chart](figures/GLOP.PNG)
 
 *Figure: Performance and computation time comparison between the original and improved models.*
 
